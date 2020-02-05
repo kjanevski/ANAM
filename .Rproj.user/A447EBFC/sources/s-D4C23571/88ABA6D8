@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580927895131.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3542023194",
+    "id" : "88ABA6D8",
+    "lastKnownWriteTime" : 1580935619,
+    "last_content_update" : 1580935619703,
+    "path" : "S:/Med_Data/SLEEP/Odo/Studies/Stephanie Studies/WES/Study 2/Analysis/ANAM/Recent Analyses/anam/scripts/exploratory-analysis.R",
+    "project_path" : "scripts/exploratory-analysis.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0",
+        "source_window_id" : ""
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
