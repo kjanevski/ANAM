@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580923296878.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B6C7FFBD",
+    "lastKnownWriteTime" : 1580924434,
+    "last_content_update" : 1580924434972,
+    "path" : "S:/Med_Data/SLEEP/Odo/Studies/Stephanie Studies/WES/Study 2/Analysis/ANAM/Recent Analyses/anam/reports/anam_srt.Rmd",
+    "project_path" : "reports/anam_srt.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "9,7",
+        "last_setup_crc32" : "D4C23571dbeb64c0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

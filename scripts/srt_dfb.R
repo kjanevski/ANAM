@@ -40,17 +40,17 @@ dfb_group <- dat_dfb %>%
 
 #Define graph
 dfb_line <- function(anamvariable){
-  with(group_dfb %>% filter(variable == anamvariable), 
+  with(dfb_group %>% filter(variable == anamvariable), 
        interaction.plot(x.factor = session, response = value, trace.factor = group, 
                         type = "b", pch = c(1,19), main = anamvariable, ylab = "Difference from baseline - group mean"))
   
   abline(h=0, lty = 3)
   
-  with(group_dfb %>% 
+  with(dfb_group %>% 
          filter(group == "Luigi") %>% 
          filter(variable == anamvariable), arrows(session,value-sem,session,value+sem, code=3, length=0.01, angle = 90))
   
-  with(group_dfb %>% 
+  with(dfb_group %>% 
          filter(group == "Mario") %>% 
          filter(variable == anamvariable), arrows(session,value-sem,session,value+sem, code=2, length=0.01, angle = 90))
 }
